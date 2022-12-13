@@ -1,0 +1,107 @@
+dog,has 4 pawns,caninus
+cat,has 4 pawns,felino
+carro,tem motor,tem rodas
+smartphone,retangular shaped
+tree,has life
+human,can speak
+a speaker,it's a object
+papagaio,can speak,it's a bird
+wolf,canino,it's wild
+Glaudiston,has life,it's a real person
+Thing,Feature1,Feature2,Feature3,Feature4,Feature5,Feature6,Feature7,Feature8,Feature9,Feature10
+Aardvark,Mammal,Nocturnal,Omnivore,Long Snout,Burrowing,Africa,Short Legs,Large Ears,Long Tail,Grey Fur
+Albatross,Bird,Seabird,Long Wingspan,Oceanic,Large Beak,White Plumage,Globetrotter,Scavenger,Nesting Colonies,Long Lifespan
+Alligator,Reptile,Crocodilian,Semiaquatic,Large Jaw,Freshwater,Swampy Habitats,Carnivore,Scaly Skin,Long Tail,Sharp Teeth
+Anaconda,Reptile,Semiaquatic,Carnivore,Large Body,South America,Nocturnal,Tree Climber,Water Dweller,Green Skin,Long Neck
+Antelope,Mammal,Herbivore,Grazer,Long Legs,Africa,Graceful,Large Horns,Agile,Fast Runner,Striped Fur
+Ape,Mammal,Primate,Tree Dweller,Long Arms,Fruit Eater,Intelligent,Social,No Tail,Opposable Thumbs,Vocalizations
+T-Rex,Large,Scaly,Green,Sharp Teeth,Short Arms,Long Tail,Two Legs,Cold-Blooded,Carnivore,Extinct
+Unicorn,Mythical,Horned,White,Magical Powers,Four Legs,Mane,Mystical,Majestic,Herbivore,Fictional
+Thing,Feature1,Feature2,Feature3,Feature4,Feature5,Feature6,Feature7,Feature8,Feature9,Feature10
+Aardvark,Mammal,Nocturnal,Omnivore,Long Snout,Burrowing,Africa,Short Legs,Large Ears,Long Tail,Grey Fur
+Albatross,Bird,Seabird,Long Wingspan,White Plumage,Oceanic,Southern Hemisphere,Large Bill,Graceful Flight,Long Life,Endangered
+Alligator,Reptile,Crocodilian,Semi-Aquatic,Sharp Teeth,Swamps,Southern US,Thick Skin,Long Tail,Carnivore,Protective Parent
+Anaconda,Reptile,Semi-Aquatic,Carnivore,Large Size,Rainforest,South America,Nocturnal,Long Body,Strong Swimmer,Green Skin
+Angelfish,Fish,Saltwater,Bright Colors,Flat Body,Coral Reefs,Tropical Waters,Long Fins,Swimming in Schools,Predator,Omnivore
+Antelope,Mammal,Herbivore,Grazing,Long Legs,Grasslands,Africa,Large Ears,Fast Runner,Social,Striped Fur
+Ape,Mammal,Primate,Tree Climbing,Long Arms,Jungles,Asia,Intelligent,No Tail,Fruit Eater,Fur
+Armadillo,Mammal,Nocturnal,Burrowing,Hard Shell,Deserts,South America,Short Legs,Scavenger,Slow Runner,Grey Fur
+Badger,Mammal,Carnivore,Burrowing,Short Legs,Grasslands,Europe,Striped Fur,Sharp Claws,Nocturnal,Protective Parent
+Barracuda,Fish,Saltwater,Predator,Long Body,Coral Reefs,Tropical Waters,Sharp Teeth,Swimming in Schools,Fast Swimmer,Silver Skin
+Bat,Mammal,Nocturnal,Flying,Leathery Wings,Caves,Worldwide,Echolocation,Insect Eater,Social,Fur
+Beaver,Mammal,Semi-Aquatic,Dam Building,Flat Tail,Rivers,North America,Webbed Feet,Nocturnal,Tree Eater,Brown Fur
+Bee,Insect,Pollinator,Flying,Honey Maker,Flowering Plants,Worldwide,Striped Body,Social,Stinger,Yellow and Black
+Bison,Mammal,Herbivore,Grazing,Large Size,Grasslands,North America,Long Hair,Strong Shoulder,Protective Parent,Brown Fur
+Bluebird,Bird,Songbird,Bright Colors,Short Beak,Woodlands,North America,Long Tail,Insect Eater,Migratory,Blue Plumage
+Butterfly,Insect,Pollinator,Flying,Bright Colors,Flowering Plants,Worldwide,Long Antennae,Metamorphosis,Short Life,Patterned Wings
+Camel,Mammal,Herbivore,Desert Adapted,Hump,Deserts,Africa,Long Legs,Thick Fur,Long Lashes,Brown Fur
+Cheetah,Mammal,Carnivore,Fast Runner,Spotted Fur,Grasslands,Africa,Long Tail,Nocturnal,Solitary,Endangered
+Cobra,Reptile,Carnivore,Venomous,Hood,Deserts,Asia,Raising Head,Nocturnal,Fast Striker,Patterned Skin
+Condor,Bird,Carrion Eater,Large Size,Black Plumage,Mountains,South America,Hooked Beak,Long Life,Protective Parent,Endangered
+Cougar,Mammal,Carnivore,Fast Runner,Spotted Fur,Forests,North America,Long Tail,Nocturnal,Solitary,Endangered
+Crab,Crustacean,Carnivore,Shell,Claws,Shorelines,Worldwide,Nocturnal,Burrowing,Swimming Sideways,Patterned Shell
+Crow,Bird,Scavenger,Black Plumage,Large Bill,Woodlands,Worldwide,Intelligent,Social,Long Life,Cawing
+Dolphin,Mammal,Omnivore,Intelligent,Fins,Oceans,Worldwide,Long Nose,Social,Swimming in Schools,Grey Skin
+Eagle,Bird,Carnivore,Large Size,White Head,Mountains,Worldwide,Hooked Beak,Strong Flier,Protective Parent,Brown Plumage
+Elephant,Mammal,Herbivore,Large Size,Tusks,Grasslands,Africa,Long Trunk,Protective Parent,Intelligent,Grey Skin
+Falcon,Bird,Carnivore,Fast Flier,Pointed Wings,Mountains,Worldwide,Sharp Talons,Nocturnal,Solitary,Brown Plumage
+Flamingo,Bird,Wading Bird,Long Legs,Pink Plumage,Salt Flats,Africa,Long Neck,Filter Feeder,Social,Kneeling
+Fox,Mammal,Carnivore,Nocturnal,Pointed Snout,Grasslands,Worldwide,Long Tail,Solitary,Fast Runner,Fur
+Gazelle,Mammal,Herbivore,Grazing,Long Legs,Grasslands,Africa,Large Ears,Fast Runner,Social,Striped Fur
+Gecko,Reptile,Carnivore,Climbing,Sticky Feet,Deserts,Asia,Nocturnal,Small Size,Camouflage,Patterned Skin
+Giraffe,Mammal,Herbivore,Grazing,Long Neck,Grasslands,Africa,Large Spots,Long Legs,Protective Parent,Brown Fur
+Goat,Mammal,Herbivore,Grazing,Beard,Mountains,Worldwide,Long Horns,Protective Parent,Climbing,Fur
+Hawk,Bird,Carnivore,Fast Flier,Pointed Wings,Mountains,Worldwide,Sharp Talons,Nocturnal,Solitary,Brown Plumage
+Hippo,Mammal,Herbivore,Semi-Aquatic,Large Size,Rivers,Africa,Short Legs,Protective Parent,Nocturnal,Grey Skin
+Hornet,Insect,Predator,Flying,Striped Body,Woodlands,Worldwide,Stinger,Social,Nest Building,Yellow and Black
+Hummingbird,Bird,Songbird,Small Size,Long Beak,Woodlands,North America,Bright Colors,Fast Flier,Nectar Feeder,Iridescent Plumage
+Hyena,Mammal,Carnivore,Nocturnal,Striped Fur,Grasslands,Africa,Loud Laugh,Social,Strong Jaw,Protective Parent
+Iguana,Reptile,Herbivore,Climbing,Long Tail,Rainforest,South America,Green Skin,Nocturnal,Protective Parent,Camouflage
+Jackal,Mammal,Carnivore,Nocturnal,Pointed Snout,Grasslands,Africa,Long Legs,Solitary,Fast Runner,Fur
+Jaguar,Mammal,Carnivore,Fast Runner,Spotted Fur,Rainforest,South America,Short Tail,Nocturnal,Solitary,Endangered
+Kangaroo,Mammal,Herbivore,Hopping,Large Tail,Grasslands,Australia,Pouch,Protective Parent,Nocturnal,Fur
+Koala,Mammal,Herbivore,Tree Climbing,Large Ears,Eucalyptus Trees,Australia,Nocturnal,Grey Fur,Long Claws,Protective Parent
+Lemur,Mammal,Primate,Tree Climbing,Large Eyes,Jungles,Madagascar,Long Tail,Nocturnal,Social,Fur
+Leopard,Mammal,Carnivore,Fast Runner,Spotted Fur,Grasslands,Africa,Long Tail,Nocturnal,Solitary,Endangered
+Lion,Mammal,Carnivore,Nocturnal,Mane,Grasslands,Africa,Large Size,Social,Protective Parent,Fur
+Llama,Mammal,Herbivore,Grazing,Long Neck,Mountains,South America,Long Hair,Pack Animal,Protective Parent,Fur
+Lynx,Mammal,Carnivore,Nocturnal,Tufted Ears,Forests,North America,Long Legs,Solitary,Fast Runner,Fur
+Macaw,Bird,Parrot,Bright Colors,Large Beak,Rainforest,South America,Long Tail,Intelligent,Social,Patterned Plumage
+Mole,Mammal,Insect Eater,Burrowing,Short Legs,Grasslands,Worldwide,No Eyes,Nocturnal,Tunneling,Soft Fur
+Monkey,Mammal,Primate,Tree Climbing,Long Tail,Jungles,Asia,Intelligent,Social,Fruit Eater,Fur
+Moose,Mammal,Herbivore,Grazing,Large Size,Forests,North America,Long Antlers,Protective Parent,Nocturnal,Brown Fur
+Ocelot,Mammal,Carnivore,Nocturnal,Spotted Fur,Rainforest,South America,Short Tail,Solitary,Fast Runner,Endangered
+Ostrich,Bird,Flightless,Large Size,Long Neck,Grasslands,Africa,Long Legs,Fast Runner,Protective Parent,Striped Plumage
+Otter,Mammal,Semi-Aquatic,Carnivore,Long Body,Rivers,Worldwide,Webbed Feet,Playful,Social,Fur
+Owl,Bird,Nocturnal,Sharp Talons,Large Eyes,Woodlands,Worldwide,Silent Flier,Insect Eater,Protective Parent,Mottled Plumage
+Panda,Mammal,Herbivore,Tree Climbing,Black and White,Bamboo Forests,China,Large Size,Nocturnal,Protective Parent,Fur
+Parrot,Bird,Parrot,Bright Colors,Large Beak,Rainforest,South America,Long Tail,Intelligent,Social,Patterned Plumage
+Pelican,Bird,Seabird,Large Bill,White Plumage,Oceanic,Worldwide,Long Neck,Graceful Flight,Protective Parent,Endangered
+Penguin,Bird,Flightless,Swimming,Black and White,Icebergs,Antarctica,Short Wings,Social,Protective Parent,White Belly
+Puma,Mammal,Carnivore,Fast Runner,Spotted Fur,Forests,North America,Long Tail,Nocturnal,Solitary,Endangered
+Rabbit,Mammal,Herbivore,Fast Runner,Long Ears,Grasslands,Worldwide,Short Tail,Nocturnal,Social,Fur
+Raccoon,Mammal,Omnivore,Nocturnal,Masked Face,Forests,North America,Long Tail,Climbing,Scavenger,Fur
+Rat,Mammal,Omnivore,Nocturnal,Long Tail,Urban Areas,Worldwide,Small Size,Scavenger,Social,Fur
+Raven,Bird,Scavenger,Black Plumage,Large Bill,Woodlands,Worldwide,Intelligent,Social,Long Life,Cawing
+Rhino,Mammal,Herbivore,Large Size,Horns,Grasslands,Africa,Thick Skin,Protective Parent,Nocturnal,Grey Skin
+Salamander,Amphibian,Carnivore,Semi-Aquatic,Long Tail,Forests,Worldwide,Nocturnal,Small Size,Camouflage,Patterned Skin
+Seal,Mammal,Carnivore,Semi-Aquatic,Fins,Oceans,Worldwide,Long Nose,Social,Swimming in Schools,Grey Skin
+Shark,Fish,Carnivore,Large Size,Sharp Teeth,Oceans,Worldwide,Nocturnal,Strong Swimmer,Predator,Grey Skin
+Sheep,Mammal,Herbivore,Grazing,Long Hair,Grasslands,Worldwide,Curved Horns,Protective Parent,Social,Fur
+Skunk,Mammal,Carnivore,Nocturnal,Striped Fur,Grasslands,North America,Short Legs,Solitary,Defensive Spray,Fur
+Sloth,Mammal,Herbivore,Tree Climbing,Long Claws,Rainforest,South America,Slow Movement,Nocturnal,Solitary,Fur
+Snake,Reptile,Carnivore,Venomous,Long Body,Deserts,Worldwide,No Legs,Nocturnal,Fast Striker,Patterned Skin
+Sparrow,Bird,Songbird,Small Size,Short Beak,Woodlands,Worldwide,Brown Plumage,Insect Eater,Migratory,Chirping
+Squirrel,Mammal,Herbivore,Tree Climbing,Long Tail,Forests,Worldwide,Nocturnal,Scampering,Nuts Eater,Fur
+Swan,Bird,Seabird,Long Neck,White Plumage,Lakes,Worldwide,Graceful Flight,Protective Parent,Migratory,Endangered
+Tiger,Mammal,Carnivore,Fast Runner,Striped Fur,Grasslands,Asia,Long Tail,Nocturnal,Solitary,Endangered
+Tortoise,Reptile,Herbivore,Slow Movement,Hard Shell,Deserts,Worldwide,Long Life,Protective Parent,Nocturnal,Patterned Shell
+Toucan,Bird,Fruit Eater,Bright Colors,Large Beak,Rainforest,South America,Long Tail,Social,Nocturnal,Patterned Plumage
+Turkey,Bird,Scavenger,Large Size,Red Wattle,Woodlands,North America,Long Neck,Protective Parent,Social,Brown Plumage
+Vulture,Bird,Carrion Eater,Large Size,Black Plumage,Mountains,Worldwide,Hooked Beak,Long Life,Protective Parent,Endangered
+Walrus,Mammal,Carnivore,Semi-Aquatic,Long Tusks,Arctic Ocean,North Pole,Thick Skin,Social,Protective Parent,Grey Skin
+Whale,Mammal,Carnivore,Large Size,Fins,Oceans,Worldwide,Long Nose,Migratory,Strong Swimmer,Grey Skin
+Wolf,Mammal,Carnivore,Nocturnal,Grey Fur,Forests,Worldwide,Long Legs,Social,Protective Parent,Endangered
+Wombat,Mammal,Herbivore,Burrowing,Short Legs,Grasslands,Australia,Nocturnal,Large Size,Protective Parent,Fur
+Woodpecker,Bird,Insect Eater,Climbing,Long Beak,Woodlands,Worldwide,Red Crest,Drumming,Nocturnal,Patterned Plumage
+Wren,Bird,Songbird,Small Size,Short Beak,Woodlands,Worldwide,Brown Plumage,Insect Eater,Migratory,Chirping
